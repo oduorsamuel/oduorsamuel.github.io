@@ -131,4 +131,9 @@
   .navbar-icon-top.navbar-expand-xl .navbar-nav .nav-link > .fa > .badge {
     top: -7px;
   }
+  .hiddenCanvasElement {
+    opacity: 0;
+    pointer-events: none; /* To prevent interaction */
+}
+
 }

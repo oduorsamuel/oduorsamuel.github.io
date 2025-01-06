@@ -1,37 +1,37 @@
 {
-  "hash": "00442e2f",
+  "hash": "3ec0af44",
   "configHash": "7d81442e",
-  "lockfileHash": "93ad8762",
-  "browserHash": "c57fce11",
+  "lockfileHash": "0dafa284",
+  "browserHash": "d43097dc",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "624d6c96",
+      "fileHash": "643aadc2",
       "needsInterop": false
     },
     "@angular/forms": {
       "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
       "file": "@angular_forms.js",
-      "fileHash": "bf302bc1",
+      "fileHash": "e710bde1",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "1c831ff4",
+      "fileHash": "c09040b6",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "02a9c8f7",
+      "fileHash": "da6f03d6",
       "needsInterop": false
     },
     "ng2-pdf-viewer": {
       "src": "../../../../../../node_modules/ng2-pdf-viewer/fesm2022/ng2-pdf-viewer.mjs",
       "file": "ng2-pdf-viewer.js",
-      "fileHash": "3e72f83d",
+      "fileHash": "420ccf47",
       "needsInterop": false
     }
   },
